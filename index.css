@@ -1,0 +1,32 @@
+html{'Roboto Mono', monospace;
+}
+
+.code {background-color: white;}
+
+ .plan1, .code{background-color:#FF764E;
+        color: white;
+        position: relative;
+        right: 250px;
+        text-decoration: none;
+        text-align: center;
+        font-size:26px;
+ }
+
+.learn1, .code {background-color:#5ED3EB;;
+         color: white;
+         text-decoration: none;
+         text-align: center;
+         font-size: 26px;      
+}
+
+.involved1, .code{ background-color:#ffcd69;
+            color: white;
+            position: relative;
+            left: 250px;
+            text-decoration:none;
+            text-align: center;
+            font-size: 26px;
+
+
+
+}
